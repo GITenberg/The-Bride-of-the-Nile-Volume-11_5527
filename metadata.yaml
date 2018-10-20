@@ -1,5 +1,5 @@
 _repo: The-Bride-of-the-Nile-Volume-11_5527
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Bell, Clara
@@ -35,5 +35,6 @@ subjects:
 - !lcc 'PT'
 - !lcsh 'Egypt -- History -- Fiction'
 - !lcsh 'German fiction -- Translations into English'
+- GITenberg
 title: The Bride of the Nile — Volume 11
 url: http://www.gutenberg.org/ebooks/5527
